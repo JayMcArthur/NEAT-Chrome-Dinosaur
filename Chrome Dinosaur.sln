@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chrome Dinosaur", "Chrome Dinosaur.pyproj", "{1DF9AB6F-5A81-42A6-AFBF-F61F3D90A34C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DF9AB6F-5A81-42A6-AFBF-F61F3D90A34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF9AB6F-5A81-42A6-AFBF-F61F3D90A34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AA012A8-7793-4429-A9FE-D74DFA0A02DF}
+	EndGlobalSection
+EndGlobal
